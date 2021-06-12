@@ -1,12 +1,13 @@
-#-------------------AMAZON------------------
+#AMAZON
 
 import lxml
 
 #url = "https://www.amazon.com/Cuckoo-CRP-P0609S-Cooker-10-10-11-60/dp/B01JRTZVVM/ref=sr_1_4?qid=1611738512&sr=8-4"
 #url = "https://www.amazon.com/Cuckoo-CRP-P0609S-Cooker-10-10-11-60/dp/B01JRTZVVM/ref=sr_1_4?qid=1611738512"
+#url = "https://www.amazon.com/Cuckoo-CRP-P0609S-Cooker-10-10-11-60/dp/B01JRTZVVM/ref=sr_1_4?dchild=1&keywords=cuckoo+rice+cooker&qid=1611738512&sr=8-4"
 
 url = "https://www.amazon.com/Duo-Evo-Plus-esterilizadora-vaporizador/dp/B07W55DDFB/ref=sr_1_4?qid=1597660904"
-#https://www.amazon.com/Cuckoo-CRP-P0609S-Cooker-10-10-11-60/dp/B01JRTZVVM/ref=sr_1_4?dchild=1&keywords=cuckoo+rice+cooker&qid=1611738512&sr=8-4
+
 header = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36",
    # "User-Agent":"Defined",
@@ -33,7 +34,7 @@ print(price_as_float)
 
 
 
-#--------------------ssg.com----------------------
+#SSG.COM
 
 import requests
 from bs4 import BeautifulSoup
@@ -63,7 +64,8 @@ product_title = soup.find(class_="cdtl_info_tit").getText().encode()
 link_to_buy = URL
 # print(link_to_buy)
 
-#--------------------ALERT EMAIL---------------
+
+#ALERT EMAIL
 
 import smtplib
 my_email = "testpythondy@gmail.com"
