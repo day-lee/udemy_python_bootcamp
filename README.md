@@ -11,6 +11,10 @@
 
 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
-## &#128071; 주요 프로젝트 목차 Index for Main Projects
+## &#128071; 주요 프로젝트 Main Projects
+#### 1. Python
+#### 2. GUI
+#### 3. Automation
+#### 4. Flask
 
 
