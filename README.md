@@ -11,6 +11,6 @@
 
 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
-## &#128071; 목차 Index
+## &#128071; 주요 프로젝트 목차 Index for Main Projects
 
 
