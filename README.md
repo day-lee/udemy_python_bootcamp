@@ -13,8 +13,13 @@
 
 ## &#128071; 주요 프로젝트 Main Projects
 #### 1. Python
-#### 2. GUI
-#### 3. Automation
-#### 4. Flask
+#### 2. OOP
+#### 3. List Comprehension
+#### 4. GUI
+#### 5. API
+#### 6. BS4 & Selenium
+#### 7. Flask Web Development
+
+
 
 
