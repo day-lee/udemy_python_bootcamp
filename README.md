@@ -9,16 +9,22 @@
 - 목표: 파이썬 문법(데이터 타입, if. for. while 문, 함수, 클래스, 객체지향 프로그래밍), GUI, 스크래핑, 자동화, Restful API, Flask 의 개념을 배우고 직접 미니 프로젝트를 만들면서 프로그래밍 학습하기
 <br> Goal: Learn about Python Language (data types, if, for, while statement, function, class, OOP), GUI, Scraping, Automation, Restful API, and Flask. uild mini projects for each lesson 
 
-[전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
+
 
 ## &#128071; 주요 프로젝트 Main Projects
-#### 1. Python
-#### 2. OOP
-#### 3. List Comprehension
-#### 4. GUI
-#### 5. API
+#### 1. 파이썬 | Python
+ [Coffee Machine Project](https://velog.io/@daylee/TIL-Python-Basics-Day-15): Recap - while, for, if statements, functions, data types
+
+#### 2. 객체 지향 프로그래밍 | OOP
+[Turtle Graphics: Damien Hurst's Dots](https://velog.io/@daylee/TIL-Python-Basics-Day-18#turtle-project): Use Turtle Graphics module to practice OOP
+#### 3. 리스트 컴프리헨션 | List Comprehension
+[NATO Phonetic Alphabet ](https://velog.io/@daylee/TIL-Python-Basics-Day-26-List-Comprehensions): 
+#### 4. 그래픽 사용자 인터페이스 | GUI
+#### 5. 애플리케이션 프로그래밍 인터페이스 | API
 #### 6. BS4 & Selenium
-#### 7. Flask Web Development
+#### 7. 플라스크 웹 프레임워크 | Flask Web Framework
+
+[전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
 
 
