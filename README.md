@@ -1,7 +1,6 @@
 ## 📚유데미 파이썬 강의 프로젝트 저장소<br> &nbsp; &nbsp; Udemy Python Course Project Repository 
-##### 100 Days of Code: The Complete Python Pro Bootcamp for 2021 (by Angela Yu)
+#### [100 Days of Code: The Complete Python Pro Bootcamp for 2021 (by Angela Yu)](https://www.udemy.com/course/100-days-of-code/)
 
-------
 
 - 프로젝트 기간: 20년 11월 ~ 21년 3월
 <br>Project Period: Nov 20' ~ March 21'
