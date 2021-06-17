@@ -12,18 +12,23 @@
 
 ## &#128071; 주요 프로젝트 Main Projects
 #### 1. 파이썬 | Python
- [Coffee Machine Project](https://velog.io/@daylee/TIL-Python-Basics-Day-15): Recap - while, for, if statements, functions, data types
+[Coffee Machine Project](https://velog.io/@daylee/TIL-Python-Basics-Day-15): Recap - while, for, if statements, functions, data types
 
 #### 2. 객체 지향 프로그래밍 | OOP
-[Turtle Graphics: Damien Hurst's Dots](https://velog.io/@daylee/TIL-Python-Basics-Day-18#turtle-project): Used Turtle Graphics module to practice OOP
+[Damien Hurst's Dots](https://velog.io/@daylee/TIL-Python-Basics-Day-18#turtle-project): Used Turtle Graphics module to practice OOP
+
 #### 3. 리스트 컴프리헨션 | List Comprehension
 [NATO Phonetic Alphabet ](https://velog.io/@daylee/TIL-Python-Basics-Day-26-List-Comprehensions): Used List Comprehensions with Pandas
+
 #### 4. 그래픽 사용자 인터페이스 | GUI
 [Password Manager](https://dayleeand.tistory.com/entry/TIL-Python-Basics-Day-30-Errors-Exceptions-and-JSON-Data?category=955151): Used Tkinter to create a Password Manager with search function (with Json file)
+
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
 [Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder"): explain
+
 #### 6. BS4 & Selenium
 [Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium to automate job applications on LinkedIn
+
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
 [eg](eg): explain
 
