@@ -21,11 +21,13 @@
 #### 4. 그래픽 사용자 인터페이스 | GUI
 [Password Manager](https://dayleeand.tistory.com/entry/TIL-Python-Basics-Day-30-Errors-Exceptions-and-JSON-Data?category=955151): Used Tkinter to create a Password Manager with search function (with Json file)
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
-
+[Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder"): explain
 #### 6. BS4 & Selenium
+[Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium to automate job applications on LinkedIn
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
+[eg](eg): explain
 
-[전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
+🍎 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
 
 
