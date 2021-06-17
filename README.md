@@ -27,8 +27,7 @@
 [Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder"): explain
 
 #### 6. BS4 & Selenium
-[Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium to automate job applications on LinkedIn
-
+[Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium and exception handling to automate job applications on LinkedIn
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
 [eg](eg): explain
 
