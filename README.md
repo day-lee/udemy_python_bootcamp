@@ -17,7 +17,7 @@
 #### 2. 객체 지향 프로그래밍 | OOP
 [Turtle Graphics: Damien Hurst's Dots](https://velog.io/@daylee/TIL-Python-Basics-Day-18#turtle-project): Use Turtle Graphics module to practice OOP
 #### 3. 리스트 컴프리헨션 | List Comprehension
-[NATO Phonetic Alphabet ](https://velog.io/@daylee/TIL-Python-Basics-Day-26-List-Comprehensions): 
+[NATO Phonetic Alphabet ](https://velog.io/@daylee/TIL-Python-Basics-Day-26-List-Comprehensions): Use List Comprehensions With pandas
 #### 4. 그래픽 사용자 인터페이스 | GUI
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
 #### 6. BS4 & Selenium
