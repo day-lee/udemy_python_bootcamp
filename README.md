@@ -24,7 +24,7 @@
 [Password Manager](https://dayleeand.tistory.com/entry/TIL-Python-Basics-Day-30-Errors-Exceptions-and-JSON-Data?category=955151): Used Tkinter to create a Password Manager with search function (with Json file)
 
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
-[Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder): explain
+[Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder): Used Google Sheety, Kiwi API and OOP concept to find the cheapest filght deal
 
 #### 6. BS4 & Selenium
 [Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium and exception handling to automate job application on LinkedIn
