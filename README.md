@@ -1,7 +1,7 @@
 ## 📚유데미 파이썬 강의 프로젝트 저장소<br> &nbsp; &nbsp; Udemy Python Course Project Repository 
 - **강의 정보 Course Information**: **[100 Days of Code: The Complete Python Pro Bootcamp for 2021 (by Angela Yu)](https://www.udemy.com/course/100-days-of-code/)**
 
-- **프로젝트 기간 Project Period**: 2020.11 ~ 2021.03
+- **프로젝트 기간 Project Period**: 2020.12 ~ 2021.03
 
 - **목표**: 파이썬 문법(데이터 타입, if. for. while 문, 함수, 클래스, 객체지향 프로그래밍), <br> GUI, 스크래핑, 자동화, Restful API, Flask 의 개념을 배우고 직접 미니 프로젝트를 만들면서 프로그래밍 학습하기
 <br> **Goal**: Learn about Python Language (data types, if, for, while statement, function, class, OOP), <br> GUI, Scraping, Automation, Restful API, and Flask. uild mini projects for each lesson 
