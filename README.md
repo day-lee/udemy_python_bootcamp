@@ -8,7 +8,7 @@
 
 
 
-## &#128071; 주요 프로젝트 Main Projects
+## &#128071; 주요 프로젝트 Capstone Projects
 #### 1. 파이썬 | Python
 [Coffee Machine Project](https://velog.io/@daylee/TIL-Python-Basics-Day-15): Recap - while, for, if statements, functions, data types
 
