@@ -24,7 +24,7 @@
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
 [Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder): Used Google Sheety, Kiwi API and OOP concept to find the cheapest flight deal
 
-#### 6. BS4 & Selenium
+#### 6. 웹 스크래핑, 자동화 | BS4 & Selenium
 [Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium and exception handling to automate job application on LinkedIn
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
 [eg](eg): explain
